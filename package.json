@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@openzeppelin/contracts": "4.3.2",
+    "chai": "^4.3.4",
+    "truffle": "^5.4.10"
+  },
+  "name": "lean_erc20",
+  "version": "1.0.0",
+  "description": "LEAN ERC20 token",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "Student Coin Team",
+  "license": "MIT"
+}
