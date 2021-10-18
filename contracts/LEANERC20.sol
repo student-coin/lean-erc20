@@ -1,6 +1,6 @@
 /* SPDX-License-Identifier: MIT
-    Lean Management Token - Connected for sharing LEAN experiences
-    Check more details about $LEAN at https://leancommunity.org/
+    Lean Management Token is a STC-based project developed to create the platform and marketplace for the Lean community. 
+    Check more details about $LEAN at https://leancommunity.org
 */
 
 pragma solidity ^0.8.0;
