@@ -3,7 +3,7 @@
 ![](assets/logo.png)
 
 # Addresses
-- Mainnet: TODO
+- Mainnet: [0xFb83869f7EE52AEBadDEA254F647953AfB1F99F8](https://etherscan.io/address/0xFb83869f7EE52AEBadDEA254F647953AfB1F99F8)
 
 # What's this?
 $LEAN token created to support the operation of the Lean Community – the first fully tokenized community in the world
