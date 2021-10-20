@@ -20,4 +20,8 @@ contract LEANERC20 is ERC20 {
         for(uint256 i = 0; i < n; i++)
             _transfer(sender, destinations[i], amounts[i]);
     }
+
+    function burn(uint256 amount) external {
+        _burn(msg.sender, amount);
+    }
 }
